@@ -2,7 +2,6 @@
 
 ## Finpro (Final Project)
 - Finpro - An Android Based Final Project Management System
-- Final Project Management D3RPLA / D3IF Telkom University 2019
 - Web API [Click Here](https://github.com/amirisback/Finpro-PA-D3IF-Telkom/tree/master/webapp/finpro-laravel)
 
 ## Documents Finpro
